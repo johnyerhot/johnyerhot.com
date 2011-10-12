@@ -1,3 +1,13 @@
 body{
     font-family: sans-serif;
+    background-color: #efefef;
+    color: #555;
+}
+a{
+    color: #D4A420;
+    text-decoration: none;
+}
+div#container{
+    width: 600px;
+    margin: 60px auto;
 }
