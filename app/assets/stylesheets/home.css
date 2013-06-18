@@ -1,13 +1,30 @@
 body{
     font-family: sans-serif;
-    background-color: #efefef;
-    color: #555;
+    background-color: #ffffff;
+    color: #666666;
 }
 a{
-    color: #D4A420;
+    color: #333333;
     text-decoration: none;
+    font-weight: bold;
 }
 div#container{
-    width: 600px;
+    width: 700px;
     margin: 60px auto;
+}
+img{
+    margin-left: 20px;
+    float: right;
+}
+ul{
+    list-style-type: none;
+    margin-left:0px;
+    padding-left: 0px;
+}
+li{
+    margin-bottom: 5px;
+}
+hr{
+    border:none;
+    border-top: 1px solid #ccc;
 }
